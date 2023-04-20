@@ -1,5 +1,4 @@
 # E-Commerce-BackEnd-Story
-# MY-Note-Taker
 
 ### Contents
 
