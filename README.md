@@ -10,8 +10,7 @@
 6. Questions
 
 ## Description of Project
-   My project is commandline node.js application to create a note taker application. User can easily create, save and delete their notes in this note taker application. Application is deployed on Heroku.
-
+This e-commerce Backend story is an application that is developed by using starter code and uses the command line interface (CLI) and object-relational mapping for various methods of data manipulation, storage, and retrieval when using HTTP methods with a RESTUL API.
 
 ## Screenshot
 Following is the screenshot of my test README:
