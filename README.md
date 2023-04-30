@@ -13,7 +13,7 @@
 This e-commerce Backend story is an application that is developed by using starter code and uses the command line interface (CLI) and object-relational mapping for various methods of data manipulation, storage, and retrieval when using HTTP methods with a RESTUL API.
 
 ## Screenshot
-Following is the screenshot of my test README:
+Following is the screenshot of my application:
 ![this fullfill all the requirements](./.png)
 ![this fullfill all the requirements](./.png)
 
@@ -34,14 +34,6 @@ This project is done for UNB Bootcamp, thanks for the opportunity. I am thankful
 If you have any questions, please reach out to me at my github.
 
 https://github.com/calligraphist
-
-
-  
-
-
-
-
-
 
 ---
 © 2023 edX Boot Camps LLC. Confidential and Proprietary. All Rights Reserved.
