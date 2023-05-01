@@ -24,7 +24,7 @@ Git clone this repository using terminal and open the file in VS Code (or in the
 
 ## Walkthrough video link
 
-https://watch.screencastify.com/v/IkJDid5rhlb9acvQm71r
+https://watch.screencastify.com/v/KfDsr5lv39frjXUXr9b2
 
 ## Acknowledgements
 
