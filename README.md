@@ -1,4 +1,4 @@
-# E-Commerce-BackEnd-Story
+# E-Commerce-Back End-Story
 
 ### Contents
 
@@ -14,8 +14,9 @@ This e-commerce Backend story is an application that is developed by using start
 
 ## Screenshot
 Following is the screenshot of my application:
-![this fullfill all the requirements](./.png)
-![this fullfill all the requirements](./.png)
+![this fullfill all the requirements](./1.png)
+![this fullfill all the requirements](./2.png)
+![this fullfill all the requirements](./3.png)
 
 ## Installation 
 
@@ -23,7 +24,7 @@ Git clone this repository using terminal and open the file in VS Code (or in the
 
 ## Walkthrough video link
 
-
+https://watch.screencastify.com/v/IkJDid5rhlb9acvQm71r
 
 ## Acknowledgements
 
